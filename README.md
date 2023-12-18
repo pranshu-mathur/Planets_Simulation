@@ -1,4 +1,4 @@
-# Planets_Simulation
+
 # 🌟 Overview
 Simulation of Planets around the sun using pygame 
 # 🔧 Setup And Installation 
