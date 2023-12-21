@@ -54,7 +54,7 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ## Contact
 
-For questions or suggestions, please feel free to contact [pm3022@srmist.edu.in].
+For questions or suggestions, please feel free to contact at pm3022@srmist.edu.in
 
 ---
 
